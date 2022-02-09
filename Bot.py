@@ -14,10 +14,10 @@ from WebMail import WM_Browser_Setup, WM_Browser_Quit_Function, WM_Refresh_Funct
 
 WM_Website = "https://smtp-mail.outlook.com"
 SA_Website = "https://csm3.serviceaide.com/#login"
-username = "joseph.gallione2@jcrew.com"
-sender_user = "joseph.gallione@jcrew.com"   
-password = "JCrew123!"
-sender_pass = "Jcrew433866"
+username = "joseph@####.com"
+sender_user = "joseph@####.com"   
+password = "######"
+sender_pass = "######"
 
 
 SA_browser = SA_Browser_Setup(SA_Website)
